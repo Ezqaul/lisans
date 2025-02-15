@@ -1,24 +1,7 @@
 [
    {
-      "enemy_attack":{
-        "91.124.63.162": "Shade Deathplay",
-      },
-      "purge":{
-         "91.124.63.162": "Shade Deathplay",
-      },
-      "anticheat":{
-         "91.124.63.162": "Shade Deathplay",
-         "31.59.131.21":  "Arel Deathplay"
-      },
-      "ooc_shop":{
-         "91.124.63.162": "Shade Deathplay",
-         "31.59.131.21":  "Arel Deathplay",
-         "194.113.226.59":  "77 Deathplay"
-      },
-      "infobox":{
-         "91.124.63.162": "Shade Deathplay",
-         "31.59.131.21":  "Arel Deathplay"
-
+      "sistem adı":{
+        "sunucu ip": "sunucu adı"
       }
    }
 ]
