@@ -2,13 +2,16 @@
    {
       "enemy_attack":{
         "91.124.63.162": "Shade Deathplay",
+         "194.113.226.59":  "77 Deathplay"
       },
       "purge":{
          "91.124.63.162": "Shade Deathplay",
+         "194.113.226.59":  "77 Deathplay"
       },
       "anticheat":{
          "91.124.63.162": "Shade Deathplay",
-         "31.59.131.21":  "Arel Deathplay"
+         "31.59.131.21":  "Arel Deathplay",
+         "194.113.226.59":  "77 Deathplay"
       },
       "ooc_shop":{
          "91.124.63.162": "Shade Deathplay",
@@ -17,7 +20,8 @@
       },
       "infobox":{
          "91.124.63.162": "Shade Deathplay",
-         "31.59.131.21":  "Arel Deathplay"
+         "31.59.131.21":  "Arel Deathplay",
+         "194.113.226.59":  "77 Deathplay"
 
       }
    }
